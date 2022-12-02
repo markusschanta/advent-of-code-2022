@@ -9,3 +9,4 @@ My solutions to the 2022 Advent of Code as shiny Jupyter notebooks. The markdown
 ## Table of Contents
 
 * [Day 1: Calorie Counting](day.01.ipynb)
+* [Day 2: Rock Paper Scissors](day.02.ipynb)
