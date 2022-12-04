@@ -84,6 +84,9 @@ def get_solution_paths_dict_for_years() -> dict[int, dict[int, list[str]]]:
             day = find_first_number(day_dir.name)
             solutions = sorted(find_recursive_solution_files(day_dir))
 
+            # Remove .ipynb_checkpoints
+            solutions = [s for s in solutions if not ('.ipynb_checkpoints' in str(s))]
+
             # To filter by extension:
             # solutions = [s for s in solutions if s.suffix == ".py"]
 

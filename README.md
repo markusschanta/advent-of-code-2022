@@ -16,13 +16,13 @@ My solutions to the 2022 Advent of Code as shiny Jupyter notebooks. The markdown
 <h1 align="center">
   2022 - 6 ⭐
 </h1>
-<a href="2022/01/.ipynb_checkpoints/day.01-checkpoint.ipynb">
+<a href="2022/01/day.01.ipynb">
   <img src="assets/media/2022/01.png" width="161px">
 </a>
-<a href="2022/02/.ipynb_checkpoints/day.02-checkpoint.ipynb">
+<a href="2022/02/day.02.ipynb">
   <img src="assets/media/2022/02.png" width="161px">
 </a>
-<a href="2022/03/.ipynb_checkpoints/day.03-checkpoint.ipynb">
+<a href="2022/03/day.03.ipynb">
   <img src="assets/media/2022/03.png" width="161px">
 </a>
 <!-- AOC TILES END -->
