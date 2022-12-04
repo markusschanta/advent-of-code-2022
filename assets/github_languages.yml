@@ -3321,7 +3321,7 @@ Julia:
   codemirror_mime_type: text/x-julia
   language_id: 184
 Jupyter Notebook:
-  type: markup
+  type: programming
   ace_mode: json
   codemirror_mode: javascript
   codemirror_mime_type: application/json
