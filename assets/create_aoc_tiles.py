@@ -371,6 +371,8 @@ def handle_year(year: int, day_to_solutions: dict[int, list[str]]):
     with html.tag("h2"):
         stars = sum((ds.time1 is not None) + (ds.time2 is not None) for ds in leaderboard.values() if ds is not None)
         html.push(f"Advent of Code {year} - Stars Collected: {stars} ⭐")
+    with html.tag("p"):
+        html.push(f'The follwing table lists all solutions per day along with the corresponding completion time and rank. The table was generated using <a href="https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles">AoCTiles</a>.')
     max_day = 25 if CREATE_ALL_DAYS else max(*day_to_solutions, *leaderboard)
     fill_empty_days_in_dict(day_to_solutions, max_day)
     for day, solutions in day_to_solutions.items():

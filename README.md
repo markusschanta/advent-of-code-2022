@@ -16,6 +16,9 @@ My solutions to the 2022 Advent of Code as shiny Jupyter notebooks. The markdown
 <h2>
   Advent of Code 2022 - Stars Collected: 8 ⭐
 </h2>
+<p>
+  The follwing table lists all solutions per day along with the corresponding completion time and rank. The table was generated using <a href="https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles">AoCTiles</a>.
+</p>
 <a href="2022/01/day.01.ipynb">
   <img src="assets/media/2022/01.png" width="161px">
 </a>
