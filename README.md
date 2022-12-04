@@ -13,9 +13,9 @@ My solutions to the 2022 Advent of Code as shiny Jupyter notebooks. The markdown
 * [Day 3: Rucksack Reorganization](day.03.ipynb)
 
 <!-- AOC TILES BEGIN -->
-<h1 align="center">
-  2022 - 6 ⭐
-</h1>
+<h2>
+  Advent of Code 2022 - Stars Collected: 8 ⭐
+</h2>
 <a href="2022/01/day.01.ipynb">
   <img src="assets/media/2022/01.png" width="161px">
 </a>
@@ -24,5 +24,8 @@ My solutions to the 2022 Advent of Code as shiny Jupyter notebooks. The markdown
 </a>
 <a href="2022/03/day.03.ipynb">
   <img src="assets/media/2022/03.png" width="161px">
+</a>
+<a href="2022/04/day.04.ipynb">
+  <img src="assets/media/2022/04.png" width="161px">
 </a>
 <!-- AOC TILES END -->
