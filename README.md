@@ -12,7 +12,7 @@ My solutions to the 2022 Advent of Code as Jupyter notebooks. The markdown for e
 
 <!-- AOC TILES BEGIN -->
 <h2>
-  Advent of Code 2022 - Stars Collected: 8 ⭐
+  Advent of Code 2022 - Stars Collected: 10 ⭐
 </h2>
 <p>
   The follwing table lists all solutions per day along with the corresponding completion time and rank. The table was generated using <a href="https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles">AoCTiles</a>.
@@ -28,5 +28,8 @@ My solutions to the 2022 Advent of Code as Jupyter notebooks. The markdown for e
 </a>
 <a href="2022/04/day.04.ipynb">
   <img src="assets/media/2022/04.png" width="161px">
+</a>
+<a href="2022/05/day.05.ipynb">
+  <img src="assets/media/2022/05.png" width="161px">
 </a>
 <!-- AOC TILES END -->
